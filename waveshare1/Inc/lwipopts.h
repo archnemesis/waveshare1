@@ -135,6 +135,7 @@
 /*----- Value in opt.h for CHECKSUM_CHECK_ICMP6: 1 -----*/
 #define CHECKSUM_CHECK_ICMP6 0
 #define MEMP_NUM_NETCONN 8
+#define LWIP_NETIF_LINK_CALLBACK 1
 /*-----------------------------------------------------------------------------*/ 
  
 

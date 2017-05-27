@@ -7,6 +7,7 @@
 
 #include "app/thread_server.h"
 #include "FreeRTOS.h"
+#include "cmsis_os.h"
 #include "sockets.h"
 #include <string.h>
 #include <stdbool.h>
